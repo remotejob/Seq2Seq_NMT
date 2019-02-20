@@ -41,7 +41,7 @@ def clean_pairs(lines):
 
 
 min_line_length = 2  # Minimum number of words required to be in training
-max_line_length = 30  # Minimum number of words allowed to be in training
+max_line_length = 60 # Minimum number of words allowed to be in training
 frequency_of_word = 1  # minumum number of word count usages
 
 

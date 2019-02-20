@@ -1,0 +1,9 @@
+__pycache__
+model/seq2seq
+raw_data
+process_data/english
+process_data/english_final
+process_data/german
+process_data/german_final
+process_data/vocab_map
+raw_data/deu.txt

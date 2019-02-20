@@ -42,4 +42,4 @@ seq2seq_esti = tf.estimator.Estimator(
 seq2seq_esti.train(
     input_fn=input_fn,
     hooks=[tf.train.FeedFnHook(feed_fn)],
-    steps=100)
+    steps=5000)
